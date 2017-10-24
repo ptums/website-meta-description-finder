@@ -6,6 +6,8 @@ Directions
 
 1. Clone repo and enter repo directory
 
+2. Download [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+
 2. Then type out the following command
 
 ```
