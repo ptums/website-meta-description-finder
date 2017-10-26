@@ -32,8 +32,6 @@ def findmeta(site, flag):
         else:
             print ("No meta description found.")
 
-
-
 # launch findmeta()
 def main():
     # iterate over urls from the user
